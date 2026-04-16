@@ -10,11 +10,11 @@ By submitting a pull request or otherwise contributing to this project, you agre
 
 ## 2. Grant of Copyright License
 
-You grant AnqorDX and the recipients of software distributed by AnqorDX a perpetual, worldwide, non-exclusive, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute your Contributions and such derivative works.
+You grant Anqor LLC and the recipients of software distributed by Anqor LLC a perpetual, worldwide, non-exclusive, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute your Contributions and such derivative works.
 
 ## 3. Grant of Patent License
 
-You grant AnqorDX and the recipients of software distributed by AnqorDX a perpetual, worldwide, non-exclusive, royalty-free, irrevocable patent license to make, have made, use, sell, offer for sale, import, and otherwise transfer your Contributions, where such license applies only to patent claims licensable by you that are necessarily infringed by your Contribution alone or by the combination of your Contribution with the project to which it was submitted.
+You grant Anqor LLC and the recipients of software distributed by Anqor LLC a perpetual, worldwide, non-exclusive, royalty-free, irrevocable patent license to make, have made, use, sell, offer for sale, import, and otherwise transfer your Contributions, where such license applies only to patent claims licensable by you that are necessarily infringed by your Contribution alone or by the combination of your Contribution with the project to which it was submitted.
 
 ## 4. You Have the Right to Submit
 
@@ -34,8 +34,8 @@ You are not expected to provide support for your Contributions. You may provide 
 
 ## 7. Relicensing
 
-You acknowledge that AnqorDX retains the right to relicense the project, including your Contributions, under different licence terms in the future. The grants in Sections 2 and 3 are made with this understanding.
+You acknowledge that Anqor LLC retains the right to relicense the project, including your Contributions, under different licence terms in the future. The grants in Sections 2 and 3 are made with this understanding.
 
 ## How to Sign
 
-When you open a pull request, CLA Assistant will check whether you have signed this agreement. If you have not, it will post a comment with a link to sign. Signing takes less than a minute and only needs to be done once across all AnqorDX repositories.
+When you open a pull request, CLA Assistant will check whether you have signed this agreement. If you have not, it will post a comment with a link to sign. Signing takes less than a minute and only needs to be done once across all Anqor LLC repositories.
